@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="email_field">Email</string>
+    <string name="main_clock_text">05:39</string>
+    <string name="alarms_text">Alarms</string>
+    <string name="add_new_button">Add New</string>
+    <string name="date_alarm_text">Mon, 14 Dec</string>
+    <string name="alarm_time">07:30</string>
+    <string name="am_text">AM</string>
+</resources>
